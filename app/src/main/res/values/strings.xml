@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Horoscopo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pantalla_resultados">Resultado</string>
+</resources>
